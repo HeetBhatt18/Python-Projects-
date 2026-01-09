@@ -43,5 +43,6 @@ A simple command-line calculator built using Python that performs basic arithmet
 ---
 
 ## 👤 Author
+BCA student
 Heet Bhatt
 
